@@ -1,5 +1,5 @@
 # windowed-borderless
-[Open Broadcaster Software](https://obsproject.com/) (or OBS) cannot capture games running in fullscreen mode or with Vulkan. The solution for this is to run the applications in windowed borderless mode. However, some of these applications do not have windowed borderless. This script fixes the problem by "centering" a windowed program by offsetting the application to (-3, -26) on your screen.
+[Open Broadcaster Software](https://obsproject.com/) (or OBS) cannot capture games running in fullscreen mode or with Vulkan. The solution for this is to run the applications in windowed borderless mode. However, some applications do not have windowed borderless. This script fixes the problem by "centering" a windowed program by offsetting the application to (-3, -26) on your screen.
 
 ## Usage
 Download/clone to wherever
